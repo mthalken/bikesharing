@@ -28,7 +28,7 @@
 ![png](https://github.com/mthalken/bikesharing/blob/main/Images/time_usage.png)
     - Checkout times are usually less than an hour with the most checkout time being at 5 minutes with 146,752 users.
 
-You can see the Tableau Story on Tableau Public[here](https://public.tableau.com/views/CitiBike_16393510557750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+You can see the interactive Tableau Story on Tableau Public[here](https://public.tableau.com/views/CitiBike_16393510557750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
 ## Summary
